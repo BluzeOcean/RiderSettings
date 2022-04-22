@@ -4,7 +4,7 @@
     <property name="created">2021-10-18T10:54:51</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2022-04-19T11:14:55</property>
+    <property name="modified">2022-04-22T08:04:14</property>
     <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -14,6 +14,19 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="23272b" />
   </colors>
   <attributes>
+    <option name="DEFAULT_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="669fc9" />
+      </value>
+    </option>
+    <option name="DELETED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="d6dae2" />
+        <option name="BACKGROUND" value="450505" />
+        <option name="EFFECT_COLOR" value="c3c3c3" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="ReSharper.CSHARP_ACCESSOR_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="669fc9" />
@@ -113,7 +126,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="9ea2aa" />
+        <option name="FOREGROUND" value="d6dae2" />
         <option name="BACKGROUND" value="23272b" />
       </value>
     </option>
