@@ -4,7 +4,7 @@
     <property name="created">2021-10-18T10:54:51</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2022-04-27T09:35:20</property>
+    <property name="modified">2022-07-04T11:43:12</property>
     <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -29,7 +29,7 @@
     </option>
     <option name="ReSharper.CSHARP_ACCESSOR_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="669fc9" />
+        <option name="FOREGROUND" value="67afdb" />
       </value>
     </option>
     <option name="ReSharper.CSHARP_BLOCK_COMMENT">
@@ -65,7 +65,7 @@
     </option>
     <option name="ReSharper.CSHARP_EXTENSION_METHOD_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="669fc9" />
+        <option name="FOREGROUND" value="c9a366" />
       </value>
     </option>
     <option name="ReSharper.CSHARP_FIELD_IDENTIFIER">
